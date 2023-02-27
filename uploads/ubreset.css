@@ -1,0 +1,219 @@
+/** Reset **/
+body,
+.lp-pom-body {
+  height: inherit;
+  -webkit-text-size-adjust: inherit;
+  -moz-text-size-adjust: inherit;
+  -ms-text-size-adjust: inherit;
+  text-size-adjust: inherit;
+  font-family: inherit;
+}
+
+.lp-pom-body {
+  font-family: inherit;
+}
+
+div.lp-pom-root,
+.cke-text {
+  font-size: 16px;
+  line-height: 22px;
+}
+
+div.lp-pom-root .lp-pom-text h2,
+.cke-text h2 {
+  font-size: 16px;
+  line-height: 22px;
+  margin-bottom: 50px;
+}
+
+div.lp-pom-root .lp-pom-text h1,
+.cke-text h1,
+div.lp-pom-root .lp-pom-text h2,
+.cke-text h2,
+div.lp-pom-root .lp-pom-text h3,
+.cke-text h3,
+div.lp-pom-root .lp-pom-text h4,
+.cke-text h4,
+div.lp-pom-root .lp-pom-text h5,
+.cke-text h5,
+div.lp-pom-root .lp-pom-text h6,
+.cke-text h6 {
+  font-weight: inherit;
+}
+
+div.lp-pom-root .lp-pom-text > p:last-child,
+div.lp-pom-root .lp-pom-text > blockquote:last-child,
+div.lp-pom-root .lp-pom-text > dl:last-child,
+div.lp-pom-root .lp-pom-text > h1:last-child,
+div.lp-pom-root .lp-pom-text > h2:last-child,
+div.lp-pom-root .lp-pom-text > h3:last-child,
+div.lp-pom-root .lp-pom-text > h4:last-child,
+div.lp-pom-root .lp-pom-text > h5:last-child,
+div.lp-pom-root .lp-pom-text > h6:last-child,
+div.lp-pom-root .lp-pom-text .fr-view > p:last-child,
+div.lp-pom-root .lp-pom-text .fr-view > blockquote:last-child,
+div.lp-pom-root .lp-pom-text .fr-view > dl:last-child,
+div.lp-pom-root .lp-pom-text .fr-view > h1:last-child,
+div.lp-pom-root .lp-pom-text .fr-view > h2:last-child,
+div.lp-pom-root .lp-pom-text .fr-view > h3:last-child,
+div.lp-pom-root .lp-pom-text .fr-view > h4:last-child,
+div.lp-pom-root .lp-pom-text .fr-view > h5:last-child,
+div.lp-pom-root .lp-pom-text .fr-view > h6:last-child {
+  margin-bottom: 22px;
+}
+
+div.lp-pom-root .lp-pom-text p,
+.cke-text p,
+div.lp-pom-root .lp-pom-text blockquote,
+.cke-text blockquote,
+div.lp-pom-root .lp-pom-text ul,
+.cke-text ul,
+div.lp-pom-root .lp-pom-text dl,
+.cke-text dl {
+  margin-bottom: 22px;
+}
+
+div.lp-pom-root .lp-pom-text blockquote,
+.cke-text blockquote,
+div.lp-pom-root .lp-pom-text ul,
+.cke-text ul,
+div.lp-pom-root .lp-pom-text ol,
+.cke-text ol,
+div.lp-pom-root .lp-pom-text dl,
+.cke-text dl {
+  font-size: 16px;
+  line-height: 22px;
+  margin-bottom: 22px;
+}
+
+div.lp-pom-root .lp-pom-text p,
+.cke-text p {
+  line-height: 22px;
+}
+
+div.lp-pom-root .lp-pom-text p,
+.cke-text p,
+div.lp-pom-root .lp-pom-text blockquote,
+.cke-text blockquote,
+div.lp-pom-root .lp-pom-text ul,
+.cke-text ul,
+div.lp-pom-root .lp-pom-text dl,
+.cke-text dl {
+  margin-bottom: 22px;
+}
+
+div.lp-pom-root .lp-pom-text.nlh p,
+.cke-text.nlh p {
+  line-height: 22px;
+}
+
+div.lp-pom-root,
+.cke-text {
+  font-size: 16px;
+  line-height: 22px;
+}
+
+div.lp-pom-root .lp-pom-text.nlh p,
+.cke-text.nlh p {
+  line-height: 22px;
+}
+
+div.lp-pom-root .lp-pom-text p,
+.cke-text p,
+div.lp-pom-root .lp-pom-text blockquote,
+.cke-text blockquote,
+div.lp-pom-root .lp-pom-text ul,
+.cke-text ul,
+div.lp-pom-root .lp-pom-text dl,
+.cke-text dl {
+  margin-bottom: 22px;
+}
+
+div.lp-pom-root .lp-pom-text p,
+.cke-text p {
+  line-height: 22px;
+}
+
+/** Basic Styles **/
+body {
+  font-style: inherit !important;
+  font-weight: inherit !important;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto !important;
+  color: rgb(34, 34, 34) !important;
+}
+
+h1 {
+  line-height: 38px;
+  font-size: 32px;
+  color: rgb(30, 132, 184);
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  font-family: "Roboto Slab";
+}
+
+h2 {
+  line-height: 50px !important;
+  text-align: center !important;
+  font-weight: 700 !important;
+  font-family: "Roboto Slab" !important;
+  font-size: 43px !important;
+  font-style: normal !important;
+  color: rgb(30, 132, 184) !important;
+}
+
+/* Banner H2 */
+#lp-pom-text-1473 h2 {
+  line-height: 32px;
+  font-weight: 400;
+  font-size: 26px;
+}
+
+h3 {
+  line-height: 26px !important;
+  font-size: 20px !important;
+  font-family: "Roboto Slab" !important;
+  color: rgb(30, 132, 184) !important;
+}
+
+/** Pre-Bill Styles **/
+.white-box {
+  box-shadow: 0px 3px 9px -1px rgba(150, 150, 150, 0.9);
+  -webkit-box-shadow: 0px 3px 9px -1px rgba(150, 150, 150, 0.9);
+  -moz-box-shadow: 0px 3px 9px -1px rgba(150, 150, 150, 0.9);
+}
+
+div#lp-pom-block-645 {
+  background-image: url(https://d9hhrg4mnvzow.cloudfront.net/save.advancedhearing.com/hcr3-new-design-feb2022/292cd51e-header-back_100000000000000000001o.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+div#lp-pom-image-656 {
+  margin-top: 15px;
+  border: 1px solid #eeeeee;
+}
+
+.padit {
+  padding: 30px !important;
+  background: #1c6491 !important;
+  border-radius: 20px !important;
+  color: white !important;
+}
+
+.padit-white {
+  padding: 20px !important;
+  background: #ffffff !important;
+  border-radius: 20px !important;
+  box-shadow: 1px 3px 6px -1px rgba(150, 150, 150, 0.9);
+  -webkit-box-shadow: 1px 3px 6px -1px rgba(150, 150, 150, 0.9);
+  -moz-box-shadow: 1px 3px 6px -1px rgba(150, 150, 150, 0.9);
+}
+
+.padit-blue {
+  box-shadow: 1px 3px 6px -1px rgba(150, 150, 150, 0.9) !important;
+  -webkit-box-shadow: 1px 3px 6px -1px rgba(150, 150, 150, 0.9) !important;
+  -moz-box-shadow: 1px 3px 6px -1px rgba(150, 150, 150, 0.9) !important;
+}
